@@ -1,0 +1,1952 @@
+{
+  "Marvel Rivals": {
+    "roles": ["Vanguard", "Duelist", "Strategist", "Team-Up"],
+    "characters": [
+      {
+        "name": "Adam Warlock", 
+        "full name": "Adam Warlock", 
+        "role": "Strategist", 
+        "image":"public/images/Adam Warlock.webp",
+        "traits": ["Hitscan", "Revive"]
+      },
+      {"name": 
+      "Angela", 
+      "full name": "Aldrif Odinsdottir", 
+      "role": "Vanguard", 
+      "image": "public/images/Angela.png",
+      "traits": ["Displacement", "Fly"]
+    },
+      {
+        "name": "Black Panther", 
+        "full name": "T'Challa", 
+        "role": "Duelist",
+        "image": "public/images/Black Panther.png", 
+        "traits": ["Dive", "Agile"]
+      },
+      {
+      "name": "Black Widow", 
+      "full name": "Natasha Romanova", 
+      "role": "Duelist",
+      "image": "public/images/Black Widow.png", 
+      "traits": ["Hitscan", "Anti-dive"]
+    },
+    {
+      "name": "Blade", 
+      "full name": "Eric Brooks", 
+      "role": "Duelist",
+      "image":"public/images/Blade.png", 
+      "traits": ["Anti-heal", "Life steal"]
+    },
+    {
+      "name": "Captain America", 
+      "full name": "Steven 'Steve' Rogers", 
+      "role": "Vanguard", 
+      "image":"public/images/Cptain America.png",
+      "traits": ["Dive", "Group buff"]
+    },
+      {
+        "name": "Cloak & Dagger", 
+        "full name": "Tyrone Johnson and Tandy Bowen", 
+        "role": "Strategist", 
+        "image":"public/images/Cloak & Dagger.png",
+        "traits": ["Autoaim", "Buff"]
+      },
+      {
+        "name": "Daredevil", 
+        "full name": "Matt Murdock", 
+        "role": "Duelist", 
+        "image": "public/images/Daredevil.png",
+        "traits": ["Dive", "Intel gathering"]
+      },
+      {
+        "name": "Doctor Strange", 
+        "full name": "Stephen Strange", 
+        "role": "Vanguard", 
+        "image": "public/images/Doctor Strange.png",
+        "traits": ["Control", "Shield"]
+      },
+      {"name": "Emma Frost", 
+      "full name": "Emma Frost", 
+      "role": "Vanguard", 
+      "image":"Emma Frost.png",
+      "traits": ["Control", "Unstoppable"]
+    },
+    {
+      "name": "Gambit", 
+      "full name": "Remy LeBeau", 
+      "role": "Strategist", 
+      "image":"public/images/Gambit.png",
+      "traits": ["Anti-Heal", "Buff"]
+    },
+      {
+      "name": "Groot", 
+      "full name": "Groot", 
+      "role": "Vanguard", 
+      "image":"public/images/Groot.png",
+      "traits": ["Control", "Bonus Health"]
+    },
+      {
+        "name": "Hawkeye", 
+        "full name": "Clint Barton", 
+        "role": "Duelist", 
+        "image":"public/images/Hawkeye.png",
+        "traits": ["Poke", "Slow"]
+      },
+      {
+        "name": "Hela", 
+        "full name": "Hela", 
+        "role": "Duelist",
+        "image":"public/images/Hela.png",
+        "traits": ["Poke", "Stun"]
+      },
+      {
+        "name": "Hulk", 
+        "full name": "Bruce Banner", 
+        "role": "Vanguard", 
+        "image":"public/images/Hulk.png",
+        "traits": ["Dive", "Stun"]
+      },
+      {
+        "name": "Human Torch", 
+        "full name": "Johnny Storm", 
+        "role": "Duelist", 
+        "image":"public/images/Human Torch.png",
+        "traits": ["Poke", "Fly"]
+      },
+      {
+        "name": "Invisible Woman", 
+        "full name": "Susan Storm", 
+        "role": "Strategist", 
+        "image":"public/images/Invisible Woman.png",
+        "traits": ["Invisibility", "Shield"]
+      },
+      {
+        "name": "Iron Fist", 
+        "full name": "Lin Lie", 
+        "role": "Duelist", 
+        "image":"public/images/Iron Fist.png",
+        "traits": ["Agile", "Shield"]
+      },
+      {
+        "name": "Iron Man", 
+        "full name": "Anthony 'Tony' Stark",
+        "role": "Duelist", 
+        "image":"public/images/Iron Man.png",
+        "traits": ["Poke", "Fly"]
+      },
+      {
+        "name": "Phoenix", 
+        "full name": "Jean Grey", 
+        "role": "Duelist", 
+        "image":"public/images/Phoenix.png",
+        "traits": ["Control", "Anti-utility"]
+      },
+      {
+        "name": "Jeff the land shark", 
+        "full name": "Jeff", 
+        "role": "Strategist", 
+        "image":"public/images/Jeff the land shark.png",
+        "traits": ["Terrorist", "Cute"]
+      },
+      {
+        "name": "Loki", 
+        "full name": "Loki Laufeyson", 
+        "role": "Strategist",
+        "image":"public/images/Loki.png", 
+        "traits": ["Invisibility", "Group protection"]
+      },
+      {
+        "name": "Luna Snow", 
+        "full name": "Seol Hee", 
+        "role": "Strategist", 
+        "image":"public/images/Luna Snow.png",
+        "traits": ["Buff", "Stun"]
+      },
+      {
+        "name": "Magik", 
+        "full name": "Illyana Rasputin", 
+        "role": "Duelist", 
+        "image":"public/images/Magik.png",
+        "traits": ["Brawler", "Dive"]
+      },
+      {
+        "name": "Magneto", 
+        "full name": "Max Einsehardt", 
+        "role": "Vanguard", 
+        "image":"public/images/Magneto.png",
+        "traits": ["Damage Absorption", "Shield"]
+      },
+      {
+        "name": "Mantis", 
+        "full name": "Mantis", 
+        "role": "Strategist", 
+        "image":"public/images/Mantis.png",
+        "traits": ["Stun", "Damage boost"]
+      },
+      {
+        "name": "Mister Fantastic", 
+        "full name": "Reed Richards", 
+        "role": "Duelist", 
+        "image":"public/images/Mister Fantastic.png",
+        "traits": ["Displacement", "Damage absorption"]
+      },
+      {
+        "name": "Moon Knight", 
+        "full name": "Marc Spector, Stephen Grant, Jake Lockley", 
+        "role": "Duelist", 
+        "image":"public/images/Moon Knight.png",
+        "traits": ["Control", "Agile"]
+      },
+      {
+        "name": "Namor", 
+        "full name": "Namor McKenzie", 
+        "role": "Duelist", 
+        "image":"public/images/Namor.png",
+        "traits": ["Auto-aim", "Anti-dive"]
+      },
+      {
+        "name": "Peni Parker", 
+        "full name": "Peni Parker", 
+        "role": "Vanguard", 
+        "image":"public/images/Peni Parker.png",
+        "traits": ["Utility", "Control"]
+      },
+      {
+        "name": "Psylocke", 
+        "full name": "Sai", 
+        "role": "Duelist", 
+        "image": "public/images/Psylocke.png",
+        "traits": ["Dive", "Invisibility"]
+      },
+      {
+        "name": "Rocket Raccoon", 
+        "full name": "Rocket Raccoon", 
+        "role": "Strategist", 
+        "image":"public/images/Rocket Raccoon.png",
+        "traits": ["Revive", "Damage boost"]
+      },
+      {
+        "name": "Scarlet Witch", 
+        "role": "Duelist", 
+        "image":"public/images/Scarlet Witch.png",
+        "traits": ["Autoaim", "Stun"]
+      },
+      {
+        "name": "Spider-Man", 
+        "full name": "Peter Parker", 
+        "role": "Duelist", 
+        "image":"public/images/Spider-Man.png",
+        "traits": ["Dive", "Agile"]
+      },
+      {
+        "name": "Squirrel Girl", 
+        "full name": "Doreen Green", 
+        "role": "Duelist", 
+        "image":"public/images/Squirrel Girl.png",
+        "traits": ["Stun", "Control"]
+      },
+      {
+        "name": "Star-Lord", 
+        "full name": "Peter Quill", 
+        "role": "Duelist", 
+        "image":"public/images/Star-Lord.png",
+        "traits": ["Agile", "Autoaim"]
+      },
+      {
+        "name": "Storm", 
+        "full name": "Ororo Munroe", 
+        "role": "Duelist", 
+        "traits": ["Fly", "Buff"]
+      },
+      {
+        "name": "The Punisher", 
+        "full name": "Frank Castle", 
+        "role": "Duelist", 
+        "image":"public/images/The Punisher.png",
+        "traits": ["Hitscan", "Agile"]
+      },
+      {
+        "name": "The Thing", 
+        "full name": "Ben Grimm", 
+        "role": "Vanguard", 
+        "image":"public/images/The Thing.png",
+        "traits": ["Damage reduction", "Unstoppable"]
+      },
+      {
+        "name": "Thor", 
+        "full name": "Thor Odinson", 
+        "role": "Vanguard", 
+        "image":"public/images/Thor.png",
+        "traits": ["Dive", "Displacement"]
+      },
+      {
+        "name": "Ultron", 
+        "full name": "Ultron", 
+        "role": "Strategist", 
+        "image":"public/images/Ultron.png",
+        "traits": ["Fly", "Group heal"]
+      },
+      {
+        "name": "Venom", 
+        "full name": "Edward 'Eddie' Brock", 
+        "role": "Vanguard", 
+        "image":"public/images/Venom.png",
+        "traits": ["Dive", "Anti-heal"]
+      },
+      {
+        "name": "Winter Soldier", 
+        "full name": "James Buchanan 'Bucky' Barnes", 
+        "role": "Duelist",
+        "image":"public/images/Winter Soldier.png", 
+        "traits": ["Displacement", "Slow"]
+      },
+      {
+        "name": "Wolverine", 
+        "full name": "Logan", 
+        "role": "Duelist", 
+        "image":"public/images/Wolverine.png",
+        "traits": ["Displacement", "Damage reduction"]
+      },
+
+      {
+        "name": "Planet X Pals", 
+        "role": "Team-Up", 
+        "image":"public/images/Planet X Pals.webp",
+        "traits": ["Anchor: Groot", "Rocket Raccoon, Jeff The Land Shark"]
+      },
+      {
+        "name": "Gamma Fastball", 
+        "role": "Team-Up", 
+        "image":"public/images/Gamma Fastball.png",
+        "traits": ["Anchor: Wolverine", "Hulk, The Thing"]
+      },
+      {
+        "name": "Fantastic Four", 
+        "role": "Team-Up", 
+        "image":"public/images/Fantastic Four.png",
+        "traits": ["Anchor: Invisible Woman", "Mister Fantastic, Human Torch, The Thing"]
+      },
+      {"name": "Explosive Entanglement", "role": "Team-Up", "traits": ["Anchor: Gambit", "Magneto"]},
+      {"name": "Sword of Duality", "role": "Team-Up", "traits": ["Anchor: Cloak & Dagger", "Hawkeye"]},
+      {"name": "Blade of Khonshu", "role": "Team-Up", "traits": ["Anchor: Moon Knight", "Blade"]},
+      {"name": "Stars Aligned", "role": "Team-Up", "traits": ["Anchor: Captain America", "Winter Soldier"]},
+      {"name": "Mental Projection", "role": "Team-Up", "traits": ["Anchor: Emma Frost", "Psylocke"]},
+      {"name": "Primal Flame", "role": "Team-Up", "traits": ["Anchor: Phoenix", "Wolverine"]},
+      {"name": "Jeff-Nado", "role": "Team-Up", "traits": ["Anchor: Jeff The Land Shark", "Storm"]},
+      {"name": "Ever-Burning Bond", "role": "Team-Up", "traits": ["Anchor: Human Torch", "Spider-Man"]},
+      {"name": "Stark Protocol", "role": "Team-Up", "traits": ["Anchor: Iron Man", "Squirrel Girl, Ultron"]},
+      {"name": "Symbiote Shenanigans", "role": "Team-Up", "traits": ["Anchor: Venom", "Hela, Jeff the land shark"]},
+      {"name": "Divine Armory", "role": "Team-Up", "traits": ["Anchor: Angela", "Thor"]},
+      {"name": "Chilling Assault", "role": "Team-Up", "traits": ["Anchor: Luna Snow", "Iron Fist"]},
+      {"name": "Rocket Network", "role": "Team-Up", "traits": ["Anchor: Rocket Raccoon", "Peni Parker, Star-Lord"]},
+      {"name": "Duality Dance", "role": "Team-Up", "traits": ["Anchor: Adam Warlock", "Luna Snow"]},
+      {"name": "Vibrant Vitality", "role": "Team-Up", "traits": ["Anchor: Mantis", "Groot, Loki"]},
+      {"name": "First Steps", "role": "Team-Up", "traits": ["Anchor: Human Torch", "The Thing"]},
+      {"name": "Arcane Order", "role": "Team-Up", "traits": ["Anchor: Doctor Strange", "Scarlet Witch, Magik"]},
+      {"name": "Bestial Hunt", "role": "Team-Up", "traits": ["Anchor: Daredevil", "The Punisher"]},
+      {"name": "Deep Wrath", "role": "Team-Up", "traits": ["Anchor: Hela", "Namor"]},
+      {"name": "Gamma Charge", "role": "Team-Up", "traits": ["Anchor: Hulk", "Black Panther"]}
+    ]
+  },
+
+  "Rainbow Six Siege": {
+    "roles": ["Attacker", "Defender"],
+    "characters": [
+      {
+        "name": "Kapkan",
+        "full name":"Maxim Basuda",
+        "organization":"Spetznaz",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["9x19VSN", "SASG-12"],
+          "secondary": ["PMM", "GSH-18"],
+          "gadget": ["Barbed wire", "Bulletproof camera"],
+          "ability": "Entry Denial Device"
+        },
+        "traits": ["Anti-entry","Trapper"]
+      },
+      {
+        "name": "Tachanka",
+        "full name": "Alexsandr Senaviev",
+        "organization":"Spetznaz",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["DP27","9x19VSN"],
+          "secondary": ["PMM","GSH-18","Bearing 9"],
+          "gadget": ["Barbed wire", "Proximity alarm","Deployable shield"],
+          "ability": "Shumikha Launcher"
+        },
+        "traits": ["Anti-entry","Crowd control"]
+      },
+      {
+        "name": "Bandit",
+        "full name":"Dominic Brunsmeier",
+        "organization":"GSG9",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["MP7","M870"],
+          "secondary": ["P12","Keratos .357"],
+          "gadget": ["Barbed wire", "Nitro cell"],
+          "ability": "Shock Wire"
+        },
+        "traits": ["Anti-entry","Gadget"]
+      },
+      {
+        "name": "Jäger",
+        "full name":"Marius Streicher",
+        "organization":"GSG9",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["416-C Carbine","M870"],
+          "secondary": ["P12","P-10C"],
+          "gadget": ["Bulletproof camera", "Observation blocker"],
+          "ability": "Active Defense System"
+        },
+        "traits": ["Anti-gadget","Support"]
+      },
+      {
+        "name": "Rook",
+        "full name":"Julien Nizan",
+        "organization":"GIGN",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["P90","MP5","SG-CQB"],
+          "secondary": ["LFP586","P9","Reaper MK2"],
+          "gadget": ["Proximity alarm", "Impact grenade","Observation blocker"],
+          "ability": "Armor Pack"
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Doc",
+        "full name":"Gustave Kateb",
+        "organization":"GIGN",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["P90","MP5","SG-CQB"],
+          "secondary": ["LFP586","P9","Bailiff 410"],
+          "gadget": ["Bulletproof camera", "Barbed wire"],
+          "ability": "Stim Pistol"
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Pulse",
+        "full name":"Jack Estrada",
+        "organization":"FBI SWAT",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["M1014","UMP45"],
+          "secondary": ["M45 MEUSOC","5.7 USG","Reaper MK2"],
+          "gadget": ["Nitro cell","Deployable shield", "Observation blocker"],
+          "ability": "Heartbeat Sensor"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Castle",
+        "full name":"Miles Campbell",
+        "organization":"FBI SWAT",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["UMP45","M1014"],
+          "secondary": ["5.7 USG","Super Shorty","M45 MEUSOC"],
+          "gadget": ["Bulletproof camera", "Proximity alarm"],
+          "ability": "Armor Panel"
+        },
+        "traits": ["Anti-entry","Support"]
+      },
+      {
+        "name": "Smoke",
+        "full name":"James Porter",
+        "organization":"SAS",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["FMG-9","M590A1"],
+          "secondary": ["P226 Mk25","SMG-11"],
+          "gadget": ["Barbed wire", "Proximity alarm"],
+          "ability": "Remote Gas Grenade"
+        },
+        "traits": ["Anti-entry","Trapper"]
+      },
+      {
+        "name": "Mute",
+        "full name":"Mark R. Chandar",
+        "organization":"SAS",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["MP5K","M590A1"],
+          "secondary": ["P226 Mk25","SMG-11"],
+          "gadget": ["Bulletproof camera", "Nitro cell"],
+          "ability": "Signal Disruptor"
+        },
+        "traits": ["Anti-gadget","Crowd control"]
+      },
+      {
+        "name": "Frost",
+        "full name":"Tina Lin Tsang",
+        "organization":"JTF2",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Super 90","9mm C1"],
+          "secondary": ["PMk1 9mm","ITA12S"],
+          "gadget": ["Bulletproof camera", "Deployable shield"],
+          "ability": "Welcome Mat"
+        },
+        "traits": ["Anti-entry","Trapper"]
+      },
+      {
+        "name": "Valkyrie",
+        "full name":"Meghan J. Castellano",
+        "organization":"Navy SEALs",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["MPX","SPAS-12"],
+          "secondary": ["D-50"],
+          "gadget": ["Impact grenade", "Nitro cell"],
+          "ability": "Black Eye"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Caveira",
+        "full name":"Taina Pereira",
+        "organization":"BOPE",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["M12","SPAS-15"],
+          "secondary": ["Luison"],
+          "gadget": ["Impact grenade","Proximity alarm", "Observation blocker"],
+          "ability": "Silent Step"
+        },
+        "traits": ["Intel","Crowd control"]
+      },
+      {
+        "name": "Echo",
+        "full name":"Masaru Enatsu",
+        "organization":"SAT",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["SuperNova","MP5SD"],
+          "secondary": ["P229","Bearing 9"],
+          "gadget": ["Impact grenade", "Deployable shield"],
+          "ability": "Yokai"
+        },
+        "traits": ["Intel","Crowd control"]
+      },
+      {
+        "name": "Mira",
+        "full name":"Elena María Álvarez",
+        "organization":"GEO",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["Vector .45 ACP","ITA12L"],
+          "secondary": ["ITA12S","USP40"],
+          "gadget": ["Proximity alarm", "Nitro cell"],
+          "ability": "Black Mirror"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Lesion",
+        "full name":"Liu Tze Long",
+        "organization":"SDU",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["SIX12 SD","T-5SMG"],
+          "secondary": ["Q-929"],
+          "gadget": ["Observation blocker", "Bulletproof camera"],
+          "ability": "Gu"
+        },
+        "traits": ["Anti-entry","Trapper"]
+      },
+      {
+        "name": "Ela",
+        "full name":"Elżbieta Bosak",
+        "organization":"GROM",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Scorpion EVO 3 A1","FO-12"],
+          "secondary": ["RG15"],
+          "gadget": ["Barbed wire", "Deployable shield","Impact grenade"],
+          "ability": "Grzmot Mine"
+        },
+        "traits": ["Crowd control","Trapper"]
+      },
+      {
+        "name": "Vigil",
+        "full name":"Chul Kyung Hwa",
+        "organization":"707th SMB",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["K1A","BOSG.12.2"],
+          "secondary": ["C75 Auto","SMG-12"],
+          "gadget": ["Bulletproof camera","Impact grenade"],
+          "ability": "ERC-7"
+        },
+        "traits": ["Crowd control","Anti-gadget"]
+      },
+      {
+        "name": "Alibi",
+        "full name":"Aria de Luca",
+        "organization":"GIS",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["Mx4 Storm","ACS12"],
+          "secondary": ["Keratos .357","Bailiff 410"],
+          "gadget": ["Proximity alarm","Observation blocker"],
+          "ability": "Prisma"
+        },
+        "traits": ["Intel","Trapper"]
+      },
+      {
+        "name": "Maestro",
+        "full name":"Adriano Martello",
+        "organization":"GIS",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["ALDA 5.56","ACS12"],
+          "secondary": ["Bailiff 410","Keratos .357"],
+          "gadget": ["Barbed wire","Impact grenade","Observation blocker"],
+          "ability": "Evil Eye"
+        },
+        "traits": ["Anti-gadget","Intel"]
+      },
+      {
+        "name": "Clash",
+        "full name":"Morowa Evans",
+        "organization":"MPS",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["CCE Shield Mk2"],
+          "secondary": ["P-10C","Super Shorty","SPSMG9"],
+          "gadget": ["Barbed wire","Impact grenade"],
+          "ability": "CCE Shield Mk2"
+        },
+        "traits": ["Crowd control","Intel"]
+      },
+      {
+        "name": "Kaid",
+        "full name":"Jalal El Fassi",
+        "organization":"GIGR",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["AUG A3","TCSG12"],
+          "secondary": [".44 Mag Semi-Auto","LFP586"],
+          "gadget": ["Barbed wire","Nitro cell","Observation blocker"],
+          "ability": "'Rtila' Electroclaw"
+        },
+        "traits": ["Anti-entry","Anti-gadget"]
+      },
+      {
+        "name": "Mozzie",
+        "full name":"Max Goose",
+        "organization":"SASR",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Commando 9","P10 RONI"],
+          "secondary": ["SDP 9mm"],
+          "gadget": ["Barbed wire","Nitro cell"],
+          "ability": "Pest Launcher"
+        },
+        "traits": ["Intel","Anti-gadget"]
+      },
+      {
+        "name": "Warden",
+        "full name":"Collin McKinley",
+        "organization":"Secret Service",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["M590A1","MPX"],
+          "secondary": ["P-10C","SMG-12"],
+          "gadget": ["Nitro cell","Deployable shield","Observation blocker"],
+          "ability": "Glance Smart Glasses"
+        },
+        "traits": ["Intel","Anti-gadget"]
+      },
+      {
+        "name": "Goyo",
+        "full name":"César Ruiz Hernández",
+        "organization":"FES",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Vector .45 ACP","TCSG12"],
+          "secondary": ["P229"],
+          "gadget": ["Proximity alarm","Bulletproof camera","Impact grenade"],
+          "ability": "Volcán Canister"
+        },
+        "traits": ["Anti-entry","Trapper"]
+      },
+      {
+        "name": "Wamai",
+        "full name":"Ngũgĩ Muchoki Furaha",
+        "organization":"Nighthaven",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["AUG A2","MP5K"],
+          "secondary": ["Keratos .357","P12","Super Shorty"],
+          "gadget": ["Proximity alarm","Impact grenade"],
+          "ability": "Mag-NET"
+        },
+        "traits": ["Anti-gadget","Trapper"]
+      },
+      {
+        "name": "Oryx",
+        "full name":"Saif Al Hadid",
+        "organization":"GIGR (unofficially)",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["T-5SMG","SPAS-12"],
+          "secondary": ["Bailiff 410","USP40","Reaper MK2"],
+          "gadget": ["Proximity alarm","Barbed wire"],
+          "ability": "Remah Dash"
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Melusi",
+        "full name":"Thandiwe Ndlovu",
+        "organization":"Inkaba Task Force",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["Super 90","MP5"],
+          "secondary": ["RG15","ITA12S"],
+          "gadget": ["Bulletproof camera","Impact grenade"],
+          "ability": "Banshee Sonic Defense"
+        },
+        "traits": ["Intel","Crowd control"]
+      },
+      {
+        "name": "Aruni",
+        "full name":"Apha Tawanroong",
+        "organization":"Nighthaven",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "1",
+        "weapons": {
+          "primary": ["P10 RONI","Mk 14 EBR"],
+          "secondary": ["PRB92"],
+          "gadget": ["Barbed wire","Bulletproof camera"],
+          "ability": "Surya Laser Gate"
+        },
+        "traits": ["Anti-entry","Anti-gadget"]
+      },
+      {
+        "name": "Thunderbird",
+        "full name":"Mina Sky",
+        "organization":"STAR-NET Aviation",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Spear .308","SPAS-15"],
+          "secondary": ["Bearing 9","Q-929"],
+          "gadget": ["Barbed wire","Bulletproof camera","Deployable shield"],
+          "ability": "Kóna Station"
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Azami",
+        "full name":"Kana Fujiwara",
+        "organization":"Tokyo MPD (formerly)",
+        "squad": "Viperstrike",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["9x19VSN","ACS12"],
+          "secondary": ["D-50"],
+          "gadget": ["Barbed wire","Impact grenade"],
+          "ability": "Kiba barrier"
+        },
+        "traits": ["Anti-entry","Support"]
+      },
+      {
+        "name": "Solis",
+        "full name":"Ana Valentina Diaz",
+        "organization":"AFEAU",
+        "squad": "Ghosteyes",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["P90","ITA12L"],
+          "secondary": ["SMG-11"],
+          "gadget": ["Proximity alarm","Impact grenade"],
+          "ability": "SPEC-IO Electro Sensor"
+        },
+        "traits": ["Support","Intel"]
+      },
+      {
+        "name": "Fenrir",
+        "full name":"Emil Svensson",
+        "organization":"Keres Legion (formerly)",
+        "squad": "Redhammer",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["MP7","SASG-12"],
+          "secondary": ["5.7 USG"],
+          "gadget": ["Observation blocker","Bulletproof camera"],
+          "ability": "F-NATT Dread Mine"
+        },
+        "traits": ["Trapper","Crowd control"]
+      },
+      {
+        "name": "Tubarão",
+        "full name":"Apha Tawanroong",
+        "organization":"DAE",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["MPX","AR-15.50"],
+          "secondary": ["P226 Mk25"],
+          "gadget": ["Nitro cell","Proximity alarm"],
+          "ability": "Zoto Canister"
+        },
+        "traits": ["Anti-entry","Anti-gadget"]
+      },
+      {
+        "name": "Sentry",
+        "full name":"N/A",
+        "organization":"N/A",
+        "squad": "N/A",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Commando 9","M870","TCSG12"],
+          "secondary": ["C75 Auto","Super Shorty"],
+          "gadget": ["Barbed Wire, Bulletproof Camera, Deployable Shield, Observation Blocker, Impact Grenade, Nitro Cell, Proximity Alarm"],
+          "ability": ["Barbed Wire, Bulletproof Camera, Deployable Shield, Observation Blocker, Impact Grenade, Nitro Cell, Proximity Alarm"]
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Skopós",
+        "full name":"Kure Galanos",
+        "organization":"EKAM, ELDYK",
+        "squad": "Wolfguard",
+        "role": "Defender",
+        "speed": "2",
+        "weapons": {
+          "primary": ["PCX-33"],
+          "secondary": ["P229"],
+          "gadget": ["Impact grenade","Proximity alarm"],
+          "ability": "V10 Pantheon Shells"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Denari",
+        "full name":"Leon Winzenried",
+        "organization":"EKAM, ELDYK",
+        "squad": "Nighthaven",
+        "role": "Defender",
+        "speed": "3",
+        "weapons": {
+          "primary": ["Scorpion EVO 3 A1","FMG-9"],
+          "secondary": ["Glaive-12","P226 Mk25"],
+          "gadget": ["Observation blocker","Deployable shield"],
+          "ability": "T.R.I.P. Connector"
+        },
+        "traits": ["Anti-entry","Crowd control"]
+      },
+
+      {
+        "name": "Glaz",
+        "full name":"Timur Glazkov",
+        "organization":"Spetsnaz",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["OTs-03"],
+          "secondary": ["PMM","GONNE-6","Bearing 9"],
+          "gadget": ["Smoke grenade","Frag grenade","Claymore"],
+          "ability": "Flip Sight"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Fuze",
+        "full name":"Shuhrat Kessikbayev",
+        "organization":"Spetsnaz",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["Balistic shield","AK-12","6P41"],
+          "secondary": ["PMM","GSH-18"],
+          "gadget": ["Smoke grenade","Breach charge","Hard breach charge"],
+          "ability": "Cluster Charge"
+        },
+        "traits": ["Anti-gadget"]
+      },
+      {
+        "name": "Sledge",
+        "full name":"Seamus Cowden",
+        "organization":"SAS",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["L85A2","M590A1"],
+          "secondary": ["Reaper MK2","P226 Mk25"],
+          "gadget": ["Stun grenade","Frag grenade","Impact EMP grenade"],
+          "ability": "Breaching Hammer"
+        },
+        "traits": ["Breach","Anti-gadget"]
+      },
+      {
+        "name": "Thatcher",
+        "full name":"Mike Baker",
+        "organization":"SAS",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["L85A2","AR33","M590A1"],
+          "secondary": ["P226 Mk25"],
+          "gadget": ["Breach charge","Claymore"],
+          "ability": "Flip Sight"
+        },
+        "traits": ["Anti-gadget","Support"]
+      },
+      {
+        "name": "Ash",
+        "full name":"Eliza Cohen",
+        "organization":"FBI SWAT",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["R4-C","G36C"],
+          "secondary": ["5.7 USG","M45 MEUSOC"],
+          "gadget": ["Breach charge","Claymore"],
+          "ability": "Breaching Round"
+        },
+        "traits": ["Breach","Front-line"]
+      },
+      {
+        "name": "Thermite",
+        "full name":"Jordan Trace",
+        "organization":"FBI SWAT",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["556XI","M1014"],
+          "secondary": ["5.7 USG","M45 MEUSOC"],
+          "gadget": ["Smoke grenade","Stun grenade"],
+          "ability": "Exothermic Charge"
+        },
+        "traits": ["Breach","Support"]
+      },
+      {
+        "name": "Twitch",
+        "full name":"Emmanuelle Pichon",
+        "organization":"GIGN",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["F2","417","SG-CQB"],
+          "secondary": ["P9","LFP586"],
+          "gadget": ["Smoke grenade","Claymore"],
+          "ability": "Shock Drone"
+        },
+        "traits": ["Intel","Anti-gadget"]
+      },
+      {
+        "name": "Montagne",
+        "full name":"Gilles Touré",
+        "organization":"GIGN",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["'Le Roc' Shield"],
+          "secondary": ["P9","LFP586"],
+          "gadget": ["Impact EMP grenade","Smoke grenade","Hard breach charge"],
+          "ability": "'Le Roc' Shield"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Blitz",
+        "full name":"Elia Kötz",
+        "organization":"GSG9",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["G52-Tactical Shield"],
+          "secondary": ["P12"],
+          "gadget": ["Smoke grenade","Breach charge"],
+          "ability": "G52-Tactical Shield"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "IQ",
+        "full name":"Monika Weiss",
+        "organization":"GSG9",
+        "squad": "Nighthaven",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["G8A1","552 Commando","AUG A2"],
+          "secondary": ["P12"],
+          "gadget": ["Breach charge","Frag grenade","Claymore"],
+          "ability": "Electronics Detector"
+        },
+        "traits": ["Intel","Support"]
+      },
+      {
+        "name": "Buck",
+        "full name":"Sebastien Côté",
+        "organization":"JTF2",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["C8-SFW","CAMRS"],
+          "secondary": ["Mk1 9mm"],
+          "gadget": ["Stun grenade","Claymore"],
+          "ability": "Flip Sight"
+        },
+        "traits": ["Breach","Support"]
+      },
+      {
+        "name": "Blackbeard",
+        "full name":"Craig Jenson",
+        "organization":"Navy SEALs",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["H.U.L.L. Adaptable Shield"],
+          "secondary": ["Mk17 CQB","SR-25"],
+          "gadget": ["Frag grenade","Claymore"],
+          "ability": "H.U.L.L. Adaptable Shield"
+        },
+        "traits": ["Breach","Front-line"]
+      },
+      {
+        "name": "Capitão",
+        "full name":"Vicente Souza",
+        "organization":"BOPE",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["PARA-308","M249"],
+          "secondary": ["PRB92","GONNE-6"],
+          "gadget": ["Impact EMP grenade","Hard breach charge","Claymore"],
+          "ability": "Tactical Crossbow"
+        },
+        "traits": ["Breach","Front-line"]
+      },
+      {
+        "name": "Hibana",
+        "full name":"Yumiko Imagawa",
+        "organization":"SAT",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["Type-89","SuperNova"],
+          "secondary": ["Bearing 9","P229"],
+          "gadget": ["Breach charge","Stun grenade"],
+          "ability": "X-Kairos"
+        },
+        "traits": ["Breach","Front-line"]
+      },
+      {
+        "name": "Jackal",
+        "full name":"Ryad Ramírez Al-Hassar",
+        "organization":"GEO",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["C7E","PDW9","ITA12L"],
+          "secondary": ["ITA12S","USP40"],
+          "gadget": ["Smoke grenade","Claymore"],
+          "ability": "Eyenox Model III"
+        },
+        "traits": ["Intel","Map control"]
+      },
+      {
+        "name": "Ying",
+        "full name":"Siu Mei Lin",
+        "organization":"SDU",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["T-95 LSW","SIX12"],
+          "secondary": ["Q-929","Reaper MK2"],
+          "gadget": ["Smoke grenade","Hard breach charge"],
+          "ability": "Candela"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "Zofia",
+        "full name":"Zofia Bosak",
+        "organization":"GROM",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["M762","LMG-E"],
+          "secondary": ["RG15"],
+          "gadget": ["Hard breach charge","Claymore"],
+          "ability": "KS79 Lifeline"
+        },
+        "traits": ["Breach","Anti-gadget"]
+      },
+      {
+        "name": "Dokkaebi",
+        "full name":"Grace Nam",
+        "organization":"707th SMB",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["Mk 14 EBR","BOSG.12.2"],
+          "secondary": ["C75 Auto","GONNE-6","SMG-12"],
+          "gadget": ["Smoke grenade","Stun grenade","Impact EMP grenade"],
+          "ability": "Logic Bomb"
+        },
+        "traits": ["Intel","Map control"]
+      },
+      {
+        "name": "Finka",
+        "full name":"Lera Melnikova",
+        "organization":"Spetsnaz",
+        "squad": "Nighthaven",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["Spear .308","6P41","SASG-12"],
+          "secondary": ["PMM","GSH-18"],
+          "gadget": ["Smoke grenade","Stun grenade","Frag grenade"],
+          "ability": "Adrenal Surge"
+        },
+        "traits": ["Front-line","Support"]
+      },
+      {
+        "name": "Lion",
+        "full name":"Olivier Flament",
+        "organization":"GIGN",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["V308","417","SG-CQB"],
+          "secondary": ["P9","LFP586"],
+          "gadget": ["Stun grenade","Frag grenade","Claymore"],
+          "ability": "EE-ONE-D"
+        },
+        "traits": ["Intel","Map control"]
+      },
+      {
+        "name": "Maverick",
+        "full name":"Erik Thorn",
+        "organization":"GSUTR",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["AR-15.50","M4"],
+          "secondary": ["1911 TACOPS"],
+          "gadget": ["Stun grenade","Claymore"],
+          "ability": "Breaching Torch"
+        },
+        "traits": ["Breach","Front-line"]
+      },
+      {
+        "name": "Nomad",
+        "full name":"Sanaa El Maktoub",
+        "organization":"GIGR",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["AK-74M","ARX200"],
+          "secondary": [".44 Mag Semi-Auto","PRB92"],
+          "gadget": ["Breach charge","Stun grenade"],
+          "ability": "Airjab Launcher"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "Nøkk",
+        "full name":"Karina Gaarddhøje",
+        "organization":"Jaeger Corps",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["FMG-9","SIX12 SD"],
+          "secondary": ["5.7 USG","D-50"],
+          "gadget": ["Hard breach charge","Impact EMP grenade","Frag grenade"],
+          "ability": "HEL Presence Reduction"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "Amaru",
+        "full name":"Azucena Rocío Quispe",
+        "organization":"APCA",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["G8A1","SuperNova"],
+          "secondary": ["GONNE-6","SMG-11","ITA12S"],
+          "gadget": ["Hard breach charge","Stun grenade"],
+          "ability": "Garra Hook"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "Kali",
+        "full name":"Jaimini Kalimohan Shah",
+        "organization":"APCA",
+        "squad": "Nighthaven",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["CSRX 300"],
+          "secondary": ["C75 Auto","SPSMG9","P226 Mk25"],
+          "gadget": ["Breach charge","Claymore"],
+          "ability": "LV Explosive Lance"
+        },
+        "traits": ["Anti-gadget","Support"]
+      },
+      {
+        "name": "Iana",
+        "full name":"Nienke Meijer",
+        "organization":"APCA",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["ARX200","G36C"],
+          "secondary": ["GONNE-6","Mk1 9mm"],
+          "gadget": ["Impact EMP grenade","Smoke grenade"],
+          "ability": "Gemini Replicator"
+        },
+        "traits": ["Front-line","Intel"]
+      },
+      {
+        "name": "Ace",
+        "full name":"Håvard Haugland",
+        "organization":"Nighthaven",
+        "squad": "Nighthaven",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["AK-12","M1014"],
+          "secondary": ["P9"],
+          "gadget": ["Breach charge","Claymore"],
+          "ability": "S.E.L.M.A. AQUA BREACHER"
+        },
+        "traits": ["Breach","Anti-gadget"]
+      },
+      {
+        "name": "Zero",
+        "full name":"Samuel Leo Fisher",
+        "organization":"ROS/Fourth Echelon/Third Echelon",
+        "squad": "Ghosteyes",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["SC3000K","MP7"],
+          "secondary": ["5.7 USG","GONNE-6"],
+          "gadget": ["Hard breach charge","Claymore"],
+          "ability": "Argus Launcher"
+        },
+        "traits": ["Anti-gadget","Intel"]
+      },
+      {
+        "name": "Sens",
+        "full name":"Néon Ngoma Mutombo",
+        "organization":"SFG",
+        "squad": "Wolfguard",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["POF-9","417"],
+          "secondary": ["SDP 9mm"],
+          "gadget": ["Frag grenade","Claymore","Hard breach charge"],
+          "ability": "R.O.U. Projector System"
+        },
+        "traits": ["Support","Map control"]
+      },
+      {
+        "name": "Grim",
+        "full name":"Charlie Tho Keng Boon",
+        "organization":"Nighthaven",
+        "squad": "Nighthaven",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["SG-CQB","552 Commando"],
+          "secondary": ["P229","Bailiff 410"],
+          "gadget": ["Breach charge","Claymore","Hard breach charge"],
+          "ability": "Kawan Hive Launcher"
+        },
+        "traits": ["Front-line","Map control"]
+      },
+      {
+        "name": "Brava",
+        "full name":"Nayara Cardoso",
+        "organization":"COT/DPF",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "3",
+        "weapons": {
+          "primary": ["PARA-308","CAMRS"],
+          "secondary": ["USP40","Super Shorty"],
+          "gadget": ["Smoke grenade","Claymore"],
+          "ability": "Kludge Drone"
+        },
+        "traits": ["Intel","Anti-gadget"]
+      },
+      {
+        "name": "Ram",
+        "full name":"Bo-Ram Choi",
+        "organization":"SFG",
+        "squad": "Redhammer",
+        "role": "Attacker",
+        "speed": "1",
+        "weapons": {
+          "primary": ["LMG-E","R4-C"],
+          "secondary": ["Mk1 9mm"],
+          "gadget": ["Smoke grenade","Stun grenade"],
+          "ability": "R.O.U. Projector System"
+        },
+        "traits": ["Anti-gadget","Breach"]
+      },
+      {
+        "name": "Deimos",
+        "full name":"Gerald Morris",
+        "organization":"Keres Legion",
+        "squad": "Keres Legion",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["AK-74M","M590A1"],
+          "secondary": [".44 Vendetta"],
+          "gadget": ["Frag grenade","Hard breach charge"],
+          "ability": "DeathMARK"
+        },
+        "traits": ["Intel","Map control"]
+      },
+      {
+        "name": "Striker",
+        "full name":"N/A",
+        "organization":"N/A",
+        "squad": "N/A",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["M4","M249","SR-25"],
+          "secondary": ["5.7 USG","ITA12S"],
+          "gadget": ["Frag grenade","Claymore","Hard breach charge","Breach charge","Smoke grenade","Stun grenade","Impact EMP grenade"],
+          "ability": ["Frag grenade","Claymore","Hard breach charge","Breach charge","Smoke grenade","Stun grenade","Impact EMP grenade"]
+        },
+        "traits": ["Support"]
+      },
+      {
+        "name": "Rauora",
+        "full name":"Hāpai Iwini",
+        "organization":"NZSAS",
+        "squad": "Viperstrike",
+        "role": "Attacker",
+        "speed": "2",
+        "weapons": {
+          "primary": ["417","M249"],
+          "secondary": ["Reaper MK2","GSH-18"],
+          "gadget": ["Smoke grenade","Breach charge"],
+          "ability": "D.O.M. Panel Launcher"
+        },
+        "traits": ["Support","Map control"]
+      }
+    ]
+  },
+
+  "Naraka Bladepoint": {
+    "roles": [],
+    "characters": [
+      {"name": "Viper Ning", "difficulty": "Medium", "traits": ["Control", "Teamplay"]},
+      {"name": "Tianhai", "difficulty": "Hard", "traits": ["Tank", "Transform"]},
+      {"name": "Matari", "difficulty": "Easy", "traits": ["Agile", "Duelist"]}
+    ]
+  },
+
+  "Smite 2":
+  {
+    "roles":["Carry","Mid","Support","Solo","Jungle","Magical"],
+    "characters":[
+      {
+        "name": "Hun Batz",
+        "title": "The Howler Monkey God",
+        "role": ["Jungle"],
+        "Pantheon": "Maya",
+        "traits": []
+      },
+      {
+        "name": "Agni",
+        "title": "God of Fire",
+        "role": ["Mid"],
+        "Pantheon": "Hindu",
+        "traits": ["Nuker","Burst damage","Sniper"]
+      },
+      {
+        "name": "Aladdin",
+        "title": "The Sultan",
+        "role": ["Jungle"],
+        "Pantheon": "Tales of Arabia",
+        "traits": ["Slayer","Burst damage","Mobility"]
+      },
+      {
+        "name": "Amaterasu",
+        "title": "The Shining Light",
+        "role": ["Solo"],
+        "Pantheon": "Japanese",
+        "traits": ["Brawler","Tank","Buffs"]
+      },
+      {
+        "name": "Anhur",
+        "title": "Slayer of Enemies",
+        "role": ["Carry"],
+        "Pantheon": "Egyptian",
+        "traits": ["Sharpshooter","Lockdown","Mobility"]
+      },
+      {
+        "name": "Anubis",
+        "title": "God of the Dead",
+        "role": ["Mid"],
+        "Pantheon": "Egyptian",
+        "traits": ["Nuker","Lockdown"]
+      },
+      {
+        "name": "Aphrodite",
+        "title": "Goddess of Beauty",
+        "role": ["Mid","Support"],
+        "Pantheon": "Greek",
+        "traits": ["Healing","Buffs","Sustain"]
+      },
+      {
+        "name": "Apollo",
+        "title": "God of Music",
+        "role": ["Carry"],
+        "Pantheon": "Greek",
+        "traits": ["Constant damage","Global","Utility"]
+      },
+      {
+        "name": "Ares",
+        "title": "God of War",
+        "role": ["Support"],
+        "Pantheon": "Greek",
+        "traits": ["Tank","Lockdown","Buffs"]
+      },
+      {
+        "name": "Artemis",
+        "title": "Goddess of the Hunt",
+        "role": ["Carry"],
+        "Pantheon": "Greek",
+        "traits": ["Sharpshooter","Lockdown"]
+      },
+      {
+        "name": "Athena",
+        "title": "Goddess of Wisdom",
+        "role": ["Support"],
+        "Pantheon": "Greek",
+        "traits": ["Tank","Lockdown","Global"]
+      },
+      {
+        "name": "Awilix",
+        "title": "Goddess of the Moon",
+        "role": ["Jungle"],
+        "Pantheon": "Maya",
+        "traits": ["Slayer","Mobile"]
+      },
+      {
+        "name": "Bacchus",
+        "title": "God of Wine",
+        "role": ["Support"],
+        "Pantheon": "Roman",
+        "traits": ["Tank","Lockdown","Mobile"]
+      },
+      {
+        "name": "Baron Samedi",
+        "title": "God of Life and Death",
+        "role": ["Mid","Support"],
+        "Pantheon": "Voodoo",
+        "traits": ["Nuker","Healing","Lockdown"]
+      },
+      {
+        "name": "Bellona",
+        "title": "Goddess of War",
+        "role": ["Solo"],
+        "Pantheon": "Roman",
+        "traits": ["Brawler","Tank","Lockdown"]
+      },
+      {
+        "name": "Cabrakan",
+        "title": "Destroyer of Mountains",
+        "role": ["Support","Solo"],
+        "Pantheon": "Maya",
+        "traits": ["Tank","Lockdown","Area control"]
+      },
+      {
+        "name": "Cerberus",
+        "title": "Warden of the Underworld",
+        "role": ["Solo","Support"],
+        "Pantheon": "Greek",
+        "traits": ["Tank","Area control","Pressure"]
+      },
+      {
+        "name": "Cernunnos",
+        "title": "The Horned God",
+        "role": ["Carry"],
+        "Pantheon": "Celtic",
+        "traits": ["Nuker","Sharpshooter","Lockdown"]
+      },
+      {
+        "name": "Chaac",
+        "title": "God of Rain",
+        "role": ["Solo"],
+        "Pantheon": "Maya",
+        "traits": ["Nuker","Tank","Lockdown"]
+      },
+      {
+        "name": "Cupid",
+        "title": "God of Love",
+        "role": ["Carry"],
+        "Pantheon": "Roman",
+        "traits": ["Nuker","Area control","Healing"]
+      },
+      {
+        "name": "Da Ji",
+        "title": "The Nine-Tailed Fox",
+        "role": ["Jungle"],
+        "Pantheon": "Chinese",
+        "traits": ["Burst damage","Mobility"]
+      },
+      {
+        "name": "Danzaburou",
+        "title": "The Legendary Tanuki",
+        "role": ["Carry"],
+        "Pantheon": "Japanese",
+        "traits": ["Slayer","Sharpshooter","Lockdown"]
+      },
+      {
+        "name": "Eset",
+        "title": "Goddess of Magic",
+        "role": ["Mid"],
+        "Pantheon": "Egyptian",
+        "traits": ["Nuker","Burst damage","Buffs"]
+      },
+      {
+        "name": "Fenrir",
+        "title": "The Unbound",
+        "role": ["Jungle"],
+        "Pantheon": "Norse",
+        "traits": ["Slayer","Lockdown","Mobile"]
+      },
+      {
+        "name": "Ganesha",
+        "title": "God of Success",
+        "role": ["Support"],
+        "Pantheon": "Hindu",
+        "traits": ["Tank","Area control","Crowd control","Buffs"]
+      },
+      {
+        "name": "Geb",
+        "title": "God of Earth",
+        "role": ["Support"],
+        "Pantheon": "Egyptian",
+        "traits": ["Tank","Area control","Shielding"]
+      },
+      {
+        "name": "Guan Yu",
+        "title": "Saint of War",
+        "role": ["Solo","Support"],
+        "Pantheon": "Chinese",
+        "traits": ["Brawler","Healing","Pressure"]
+      },
+      {
+        "name": "Hades",
+        "title": "King of the Underworld",
+        "role": ["Mid","Solo"],
+        "Pantheon": "Greek",
+        "traits": ["Nuker","Mobile","Lockdown"]
+      },
+      {
+        "name": "Hecate",
+        "title": "Goddess of Sorcery",
+        "role": ["Mid"],
+        "Pantheon": "Greek",
+        "traits": ["Nuker","Lockdown","Buffs"]
+      },
+      {
+        "name": "Hercules",
+        "title": "Champion of Rome",
+        "role": ["Solo"],
+        "Pantheon": "Roman",
+        "traits": ["Tank","Brawler","Lockdown"]
+      },
+      {
+        "name": "Hou Yi",
+        "title": "Defender of the Earth",
+        "role": ["Carry"],
+        "Pantheon": "Chinese",
+        "traits": ["Constant damage"]
+      },
+      {
+        "name": "Hua Mulan",
+        "title": "The ascendant Warrior",
+        "role": ["Solo"],
+        "Pantheon": "Chinese",
+        "traits": ["Brawler","Tank","Pressure"]
+      },
+      
+      {
+        "name": "Izanami",
+        "title": "Matron of the Dead",
+        "role": ["Carry"],
+        "Pantheon": "Japanese",
+        "traits": ["Pressure","Burst damage","Constant damage"]
+      },
+      {
+        "name": "Janus",
+        "title": "God of Portals and Transitions",
+        "role": ["Mid"],
+        "Pantheon": "Roman",
+        "traits": ["Burst damage"]
+      },
+      {
+        "name": "Jing Wei",
+        "title": "The Oathkeeper",
+        "role": ["Carry"],
+        "Pantheon": "Chinese",
+        "traits": ["Sharpshooter","Mobile"]
+      },
+      {
+        "name": "Jormungandir",
+        "title": "The World Serpent",
+        "role": ["Solo","Support"],
+        "Pantheon": "Greek",
+        "traits": ["Tank","Area control","Constant damage","Global"]
+      },
+      {
+        "name": "Kali",
+        "title": "Goddess of Destruction",
+        "role": ["Jungle"],
+        "Pantheon": "Hindu",
+        "traits": ["Constant damage","Pressure","Sustain"]
+      },
+      {
+        "name": "Khepri",
+        "title": "The Dawn Bringer",
+        "role": ["Support"],
+        "Pantheon": "Egyptian",
+        "traits": ["Tank","Lockdown","Buffs"]
+      },
+      {
+        "name": "Kukulkan",
+        "title": "Serpent of the Nine Winds",
+        "role": ["Mid"],
+        "Pantheon": "Maya",
+        "traits": ["Nuker"]
+      },
+      {
+        "name": "Loki",
+        "title": "The Trickster God",
+        "role": ["Jungle"],
+        "Pantheon": "Norse",
+        "traits": ["Slayer","Stealth"]
+      },
+      {
+        "name": "Medusa",
+        "title": "The Gorgon",
+        "role": ["Carry"],
+        "Pantheon": "Greek",
+        "traits": ["Burst damage","Lockdown","Pressure"]
+      },
+      {
+        "name": "Mercury",
+        "title": "Messenger of the Gods",
+        "role": ["Jungle"],
+        "Pantheon": "Roman",
+        "traits": ["Burst damage","Mobile"]
+      },
+      {
+        "name": "Merlin",
+        "title": "The Master Wizard",
+        "role": ["Mid"],
+        "Pantheon": "Arthurian",
+        "traits": ["Nuker","Burst damage"]
+      },
+      {
+        "name": "Mordred",
+        "title": "Breaker of the Round Table",
+        "role": ["Solo","Jungle"],
+        "Pantheon": "Arthurian",
+        "traits": ["Slayer","Tank","Global"]
+      },
+      {
+        "name": "Neith",
+        "title": "Weaver of Fate",
+        "role": ["Carry"],
+        "Pantheon": "Egyptian",
+        "traits": ["Nuker","Sharpshooter","Global"]
+      },
+      {
+        "name": "Nemesis",
+        "title": "Goddess of Vengeance",
+        "role": ["Jungle"],
+        "Pantheon": "Greek",
+        "traits": ["Mobile","Shielding","Constant damage"]
+      },
+      {
+        "name": "Nu Wa",
+        "title": "Guardian of Heaven",
+        "role": ["Mid"],
+        "Pantheon": "Chinese",
+        "traits": ["Nuker","Global","Stealth"]
+      },
+      {
+        "name": "Odin",
+        "title": "The Allfather",
+        "role": ["Solo"],
+        "Pantheon": "Norse",
+        "traits": ["Tank","Shielding","Mobile"]
+      },
+      {
+        "name": "Osiris",
+        "title": "Broken God of the Afterlife",
+        "role": ["Solo"],
+        "Pantheon": "Egyptian",
+        "traits": ["Brawler","Lockdown","Constant damage"]
+      },
+      {
+        "name": "Pele",
+        "title": "Goddess of Volcanoes",
+        "role": ["Jungle"],
+        "Pantheon": "Polynesian",
+        "traits": ["Slayer","Mobile","Burst damage"]
+      },
+      {
+        "name": "Poseidon",
+        "title": "God of the Oceans",
+        "role": ["Mid"],
+        "Pantheon": "Greek",
+        "traits": ["Nuker","Area control"]
+      },
+      {
+        "name": "Princess Bari",
+        "title": "The Divine Mudang",
+        "role": ["Carry","Mid"],
+        "Pantheon": "Korean",
+        "traits": ["Sharpshooter","Mobile","Constant damage"]
+      },
+      {
+        "name": "Ra",
+        "title": "The Sun God",
+        "role": ["Mid"],
+        "Pantheon": "Egyptian",
+        "traits": ["Sniper","Healing","Buffs"]
+      },
+      {
+        "name": "Rama",
+        "title": "Seventh Avatar of Vishnu",
+        "role": ["Carry"],
+        "Pantheon": "Hindu",
+        "traits": ["Sharpshooter","Sniper","Global"]
+      },
+      {
+        "name": "Sobek",
+        "title": "God of the Nile",
+        "role": ["Support"],
+        "Pantheon": "Egyptian",
+        "traits": ["Tank","Lockdown","Execute"]
+      },
+      {
+        "name": "Scylla",
+        "title": "Horror of the Sea",
+        "role": ["Mid"],
+        "Pantheon": "Greek",
+        "traits": ["Nuker","Burst damage"]
+      },
+      {
+        "name": "Sol",
+        "title": "Goddess of the Sun",
+        "role": ["Mid","Carry"],
+        "Pantheon": "Norse",
+        "traits": ["Sharpshooter","Nuker"]
+      },
+      {
+        "name": "Sun Wukong",
+        "title": "The Monkey King",
+        "role": ["Solo"],
+        "Pantheon": "Chinese",
+        "traits": ["Brawler","Pressure"]
+      },
+      {
+        "name": "Susano",
+        "title": "God of the Summer Storm",
+        "role": ["Jungle"],
+        "Pantheon": "Japanese",
+        "traits": ["Slayer","Lockdown","Mobile"]
+      },
+      {
+        "name": "Sylvanus",
+        "title": "Keeper of the Wild",
+        "role": ["Support"],
+        "Pantheon": "Roman",
+        "traits": ["Tank","Healing","Utility","Crowd control"]
+      },
+      {
+        "name": "Thanatos",
+        "title": "Hand of Death",
+        "role": ["Jungle"],
+        "Pantheon": "Greek",
+        "traits": ["Slayer","Execute","Global"]
+      },
+      {
+        "name": "The Morrigan",
+        "title": "Phantom Queen",
+        "role": ["Mid","Jungle"],
+        "Pantheon": "Celtic",
+        "traits": ["Slayer","Nuker","Stealth"]
+      },
+      {
+        "name": "Thor",
+        "title": "God of Thunder",
+        "role": ["Jungle"],
+        "Pantheon": "Norse",
+        "traits": ["Slayer","Global","Mobile"]
+      },
+      {
+        "name": "Tsukuyomi",
+        "title": "God of the Moon",
+        "role": ["Jungle"],
+        "Pantheon": "Japanese",
+        "traits": ["Slayer","Mobile","Constant damage"]
+      },
+      {
+        "name": "Ullr",
+        "title": "The Glorious One",
+        "role": ["Carry"],
+        "Pantheon": "Norse",
+        "traits": ["Lockdown","Burst damage","Pressure"]
+      },
+      {
+        "name": "Vulcan",
+        "title": "Smith of the Gods",
+        "role": ["Mid"],
+        "Pantheon": "Roman",
+        "traits": ["Nuker","Burst damage","Pressure"]
+      },
+      {
+        "name": "Xbalanque",
+        "title": "Hidden Jaguar Sun",
+        "role": ["Carry"],
+        "Pantheon": "Maya",
+        "traits": ["Constant damage","Global","Mobile"]
+      },
+      {
+        "name": "Yemoja",
+        "title": "Goddess of Rivers",
+        "role": ["Support"],
+        "Pantheon": "Yoruba",
+        "traits": ["Tank","Healing","Shielding"]
+      },
+      {
+        "name": "Ymir",
+        "title": "Father of the Frost Giants",
+        "role": ["Support"],
+        "Pantheon": "Norse",
+        "traits": ["Brawler","Tank","Lockdown"]
+      },
+      {
+        "name": "Zeus",
+        "title": "God of the Sky",
+        "role": ["Mid"],
+        "Pantheon": "Greek",
+        "traits": ["Sharpshooter","Nuker"]
+      },
+      {
+        "name": "Achilles",
+        "title": "Hero of the Trojan War",
+        "role": ["Solo","Jungle"],
+        "Pantheon": "Greek",
+        "traits": ["Brawler","Execute","Lockdown"]
+      }
+    ]
+  }
+}
