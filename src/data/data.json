@@ -1520,6 +1520,13 @@
         "traits": ["Sharpshooter","Lockdown"]
       },
       {
+        "name": "Artio",
+        "title": "The Bear Goddess",
+        "role": ["Support","Solo"],
+        "Pantheon": "Celtic",
+        "traits": ["Magical","Hybrid","Crowd control"]
+      },
+      {
         "name": "Athena",
         "title": "Goddess of Wisdom",
         "role": ["Support"],
