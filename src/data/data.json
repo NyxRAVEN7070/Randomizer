@@ -59,6 +59,27 @@
         "traits": ["Dive", "Intel gathering"]
       },
       {
+        "name": "Deadpool", 
+        "full name": "Wade Wilson", 
+        "role": "Vanguard", 
+        "image": "public/images/Deadpool.png",
+        "traits": ["Mobility"]
+      },
+      {
+        "name": "Deadpool", 
+        "full name": "Wade Wilson", 
+        "role": "Duelist", 
+        "image": "public/images/Deadpool.png",
+        "traits": ["Mobility"]
+      },
+      {
+        "name": "Deadpool", 
+        "full name": "Wade Wilson", 
+        "role": "Strategist", 
+        "image": "public/images/Deadpool.png",
+        "traits": ["Mobility"]
+      },
+      {
         "name": "Doctor Strange", 
         "full name": "Stephen Strange", 
         "role": "Vanguard", 
@@ -333,13 +354,14 @@
       {"name": "Mental Projection", "role": "Team-Up", "traits": ["Anchor: Emma Frost", "Psylocke"]},
       {"name": "Primal Flame", "role": "Team-Up", "traits": ["Anchor: Phoenix", "Wolverine"]},
       {"name": "Jeff-Nado", "role": "Team-Up", "traits": ["Anchor: Jeff The Land Shark", "Storm"]},
-      {"name": "Ever-Burning Bond", "role": "Team-Up", "traits": ["Anchor: Human Torch", "Spider-Man"]},
       {"name": "Stark Protocol", "role": "Team-Up", "traits": ["Anchor: Iron Man", "Squirrel Girl, Ultron"]},
       {"name": "Symbiote Shenanigans", "role": "Team-Up", "traits": ["Anchor: Venom", "Hela, Jeff the land shark"]},
       {"name": "Divine Armory", "role": "Team-Up", "traits": ["Anchor: Angela", "Thor"]},
       {"name": "Chilling Assault", "role": "Team-Up", "traits": ["Anchor: Luna Snow", "Iron Fist"]},
-      {"name": "Rocket Network", "role": "Team-Up", "traits": ["Anchor: Rocket Raccoon", "Peni Parker, Star-Lord"]},
+      {"name": "Rocket Network", "role": "Team-Up", "traits": ["Anchor: Rocket Raccoon", "Star-Lord"]},
+      {"name": "Mr. Pool's Interdimensional Toy Box", "role": "Team-Up", "traits": ["Anchor: Deadpool", "Jeff the land shark"]},
       {"name": "Duality Dance", "role": "Team-Up", "traits": ["Anchor: Adam Warlock", "Luna Snow"]},
+      {"name": "Parker Power-Up", "role": "Team-Up", "traits": ["Anchor: Peni Parker", "Spider-Man"]},
       {"name": "Vibrant Vitality", "role": "Team-Up", "traits": ["Anchor: Mantis", "Groot, Loki"]},
       {"name": "First Steps", "role": "Team-Up", "traits": ["Anchor: Human Torch", "The Thing"]},
       {"name": "Arcane Order", "role": "Team-Up", "traits": ["Anchor: Doctor Strange", "Scarlet Witch, Magik"]},
