@@ -449,7 +449,13 @@
         "role": 
         "Team-Up", 
         "traits": ["Anchor: Hulk", "Black Panther, The Thing"]
-      }
+      },
+      {
+        "name": "Psionic Mayhem",
+        "role": "Team-Up",
+        "traits": ["Anchor: Invisible Woman", "Doctor Strange"]
+      },
+
     ]
   },
 
