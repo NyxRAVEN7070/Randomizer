@@ -92,7 +92,7 @@
         "role": "Duelist", 
         "image": "public/images/Elsa Bloodstone.png",
         "traits": ["Displacement", "Mobility", "Trap"]
-      }
+      },
       {"name": "Emma Frost", 
       "full name": "Emma Frost", 
       "role": "Vanguard", 
