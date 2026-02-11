@@ -86,6 +86,13 @@
         "image": "public/images/Doctor Strange.png",
         "traits": ["Control", "Shield"]
       },
+      {
+        "name": "Elsa Bloodstone", 
+        "full name": "Elsa Bloodstone", 
+        "role": "Duelist", 
+        "image": "public/images/Elsa Bloodstone.png",
+        "traits": ["Displacement", "Mobility", "Trap"]
+      }
       {"name": "Emma Frost", 
       "full name": "Emma Frost", 
       "role": "Vanguard", 
@@ -329,6 +336,7 @@
         "traits": ["Displacement", "Damage reduction"]
       },
 
+      
       {
         "name": "Planet X Pals", 
         "role": "Team-Up", 
@@ -342,32 +350,106 @@
         "traits": ["Anchor: Wolverine", "Hulk, The Thing"]
       },
       {
-        "name": "Fantastic Four", 
+        "name": "Explosive Entanglement", 
         "role": "Team-Up", 
-        "image":"public/images/Fantastic Four.png",
-        "traits": ["Anchor: Invisible Woman", "Mister Fantastic, Human Torch, The Thing"]
+        "traits": ["Anchor: Gambit", "Magneto, Rogue"]
       },
-      {"name": "Explosive Entanglement", "role": "Team-Up", "traits": ["Anchor: Gambit", "Magneto"]},
-      {"name": "Sword of Duality", "role": "Team-Up", "traits": ["Anchor: Cloak & Dagger", "Hawkeye"]},
-      {"name": "Blade of Khonshu", "role": "Team-Up", "traits": ["Anchor: Moon Knight", "Blade"]},
-      {"name": "Stars Aligned", "role": "Team-Up", "traits": ["Anchor: Captain America", "Winter Soldier"]},
-      {"name": "Mental Projection", "role": "Team-Up", "traits": ["Anchor: Emma Frost", "Psylocke"]},
-      {"name": "Primal Flame", "role": "Team-Up", "traits": ["Anchor: Phoenix", "Wolverine"]},
-      {"name": "Jeff-Nado", "role": "Team-Up", "traits": ["Anchor: Jeff The Land Shark", "Storm"]},
-      {"name": "Stark Protocol", "role": "Team-Up", "traits": ["Anchor: Iron Man", "Squirrel Girl, Ultron"]},
-      {"name": "Symbiote Shenanigans", "role": "Team-Up", "traits": ["Anchor: Venom", "Hela, Jeff the land shark"]},
-      {"name": "Divine Armory", "role": "Team-Up", "traits": ["Anchor: Angela", "Thor"]},
-      {"name": "Chilling Assault", "role": "Team-Up", "traits": ["Anchor: Luna Snow", "Iron Fist"]},
-      {"name": "Rocket Network", "role": "Team-Up", "traits": ["Anchor: Rocket Raccoon", "Star-Lord"]},
-      {"name": "Mr. Pool's Interdimensional Toy Box", "role": "Team-Up", "traits": ["Anchor: Deadpool", "Jeff the land shark"]},
-      {"name": "Duality Dance", "role": "Team-Up", "traits": ["Anchor: Adam Warlock", "Luna Snow"]},
-      {"name": "Parker Power-Up", "role": "Team-Up", "traits": ["Anchor: Peni Parker", "Spider-Man"]},
-      {"name": "Vibrant Vitality", "role": "Team-Up", "traits": ["Anchor: Mantis", "Groot, Loki"]},
-      {"name": "First Steps", "role": "Team-Up", "traits": ["Anchor: Human Torch", "The Thing"]},
-      {"name": "Arcane Order", "role": "Team-Up", "traits": ["Anchor: Doctor Strange", "Scarlet Witch, Magik"]},
-      {"name": "Bestial Hunt", "role": "Team-Up", "traits": ["Anchor: Daredevil", "The Punisher"]},
-      {"name": "Deep Wrath", "role": "Team-Up", "traits": ["Anchor: Hela", "Namor"]},
-      {"name": "Gamma Charge", "role": "Team-Up", "traits": ["Anchor: Hulk", "Black Panther"]}
+      {
+        "name": "Sword of Duality", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Cloak & Dagger", "Hawkeye, Psylocke"]
+      },
+      {
+        "name": "Blade of Khonshu", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Moon Knight", "Blade"]
+      },
+      {
+        "name": "Stars Aligned", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Captain America", "Winter Soldier"]
+      },
+      {
+        "name": "Primal Flame", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Phoenix", "Wolverine", "Black Widow"]
+      },
+      {
+        "name": "Jeff-Nado", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Jeff The Land Shark", "Storm"]
+      },
+      {
+        "name": "Stark Protocol", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Iron Man", "Squirrel Girl, Ultron"]
+      },
+      {
+        "name": "Symbiote Shenanigans", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Venom", "Hela, Jeff the land shark"]
+      },
+      {
+        "name": "Divine Armory", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Angela", "Thor"]
+      },
+      {
+        "name": "Chilling Assault", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Luna Snow", "Iron Fist, Emma Frost"]
+      },
+      {
+        "name": "Rocket Network", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Rocket Raccoon", "Star-Lord, Mister Fantastic"]
+      },
+      {
+        "name": "Mr. Pool's Interdimensional Toy Box", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Deadpool", "Jeff the land shark, Elsa Bloodstone"]
+      },
+      {
+        "name": "Duality Dance", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Adam Warlock", "Luna Snow"]
+      },
+      {
+        "name": "Parker Power-Up", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Peni Parker", "Spider-Man"]
+      },
+      {
+        "name": "Vibrant Vitality", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Mantis", "Groot, Loki"]
+      },
+      {
+        "name": "First Steps", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Human Torch", "The Thing"]
+      },
+      {
+        "name": "Arcane Order", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Doctor Strange", "Scarlet Witch, Magik"]
+      },
+      {
+        "name": "Bestial Hunt", 
+        "role": "Team-Up", 
+        "traits": ["Anchor: Daredevil", "The Punisher"]
+      },
+      {
+        "name": "Deep Wrath",
+        "role": "Team-Up",
+        "traits": ["Anchor: Hela", "Namor"]
+      },
+      {
+        "name": "Gamma Charge", 
+        "role": 
+        "Team-Up", 
+        "traits": ["Anchor: Hulk", "Black Panther, The Thing"]
+      }
     ]
   },
 
