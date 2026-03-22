@@ -329,6 +329,12 @@
         "traits": ["Displacement", "Slow"]
       },
       {
+        "name": "White Fox",
+        "full name": "Ami Han",
+        "role": "Strategist",
+        "image": "public/images/White Fox.png"
+      },
+      {
         "name": "Wolverine", 
         "full name": "Logan", 
         "role": "Duelist", 
@@ -375,11 +381,6 @@
         "traits": ["Anchor: Phoenix", "Wolverine", "Black Widow"]
       },
       {
-        "name": "Jeff-Nado", 
-        "role": "Team-Up", 
-        "traits": ["Anchor: Jeff The Land Shark", "Storm"]
-      },
-      {
         "name": "Stark Protocol", 
         "role": "Team-Up", 
         "traits": ["Anchor: Iron Man", "Squirrel Girl, Ultron"]
@@ -408,11 +409,6 @@
         "name": "Mr. Pool's Interdimensional Toy Box", 
         "role": "Team-Up", 
         "traits": ["Anchor: Deadpool", "Jeff the land shark, Elsa Bloodstone"]
-      },
-      {
-        "name": "Duality Dance", 
-        "role": "Team-Up", 
-        "traits": ["Anchor: Adam Warlock", "Luna Snow"]
       },
       {
         "name": "Parker Power-Up", 
@@ -454,6 +450,16 @@
         "name": "Psionic Mayhem",
         "role": "Team-Up",
         "traits": ["Anchor: Invisible Woman", "Doctor Strange"]
+      },
+      {
+        "name": "Cosmic Cyclone",
+        "role": "Team-Up",
+        "traits": ["Anchor: Storm", "Adam Warlock"]
+      },
+      {
+        "name": "Blessing of the Kumiho",
+        "role": "Team-Up",
+        "traits": ["Anchor: White Fox", "Luna Snow"]
       }
 
     ]
