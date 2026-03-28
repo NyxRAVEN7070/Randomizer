@@ -259,7 +259,7 @@
         "role": "Vanguard", 
         "image":"public/images/Rogue.png",
         "traits": ["Debuff", "Agile"]
-      }
+      },
       {
         "name": "Scarlet Witch", 
         "role": "Duelist", 
