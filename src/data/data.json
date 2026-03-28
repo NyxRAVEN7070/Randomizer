@@ -254,6 +254,13 @@
         "traits": ["Revive", "Damage boost"]
       },
       {
+        "name": "Rogue", 
+        "full name": "Anna Marie LeBeau", 
+        "role": "Vanguard", 
+        "image":"public/images/Rogue.png",
+        "traits": ["Debuff", "Agile"]
+      }
+      {
         "name": "Scarlet Witch", 
         "role": "Duelist", 
         "image":"public/images/Scarlet Witch.png",
