@@ -16,6 +16,12 @@
       "image": "public/images/Angela.png",
       "traits": ["Displacement", "Fly"]
     },
+      {"name": "Black Cat", 
+      "full name": "Felicia Hardy", 
+      "role": "Duelist", 
+      "image": "public/images/Black Cat.png",
+      "traits": "Mobility"
+    },
       {
         "name": "Black Panther", 
         "full name": "T'Challa", 
